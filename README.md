@@ -15,4 +15,4 @@
 ![bushraa](https://user-images.githubusercontent.com/79949101/183269379-dcc0c71e-1df1-46a5-8ea6-46ef63a97c65.jpg)
  ## Calculate the maximum angle of foot movement
  
-####tan=64/64.77=0.9*10=9  angle=9
+#### tan=64/64.77=0.9*10=9  angle=9
